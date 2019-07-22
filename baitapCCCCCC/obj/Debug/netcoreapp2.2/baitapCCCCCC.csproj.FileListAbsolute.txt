@@ -1,0 +1,11 @@
+C:\Users\DELL\RiderProjects\baitapCCCCCC\baitapCCCCCC\bin\Debug\netcoreapp2.2\baitapCCCCCC.deps.json
+C:\Users\DELL\RiderProjects\baitapCCCCCC\baitapCCCCCC\bin\Debug\netcoreapp2.2\baitapCCCCCC.runtimeconfig.json
+C:\Users\DELL\RiderProjects\baitapCCCCCC\baitapCCCCCC\bin\Debug\netcoreapp2.2\baitapCCCCCC.runtimeconfig.dev.json
+C:\Users\DELL\RiderProjects\baitapCCCCCC\baitapCCCCCC\bin\Debug\netcoreapp2.2\baitapCCCCCC.dll
+C:\Users\DELL\RiderProjects\baitapCCCCCC\baitapCCCCCC\bin\Debug\netcoreapp2.2\baitapCCCCCC.pdb
+C:\Users\DELL\RiderProjects\baitapCCCCCC\baitapCCCCCC\obj\Debug\netcoreapp2.2\baitapCCCCCC.csprojAssemblyReference.cache
+C:\Users\DELL\RiderProjects\baitapCCCCCC\baitapCCCCCC\obj\Debug\netcoreapp2.2\baitapCCCCCC.csproj.CoreCompileInputs.cache
+C:\Users\DELL\RiderProjects\baitapCCCCCC\baitapCCCCCC\obj\Debug\netcoreapp2.2\baitapCCCCCC.AssemblyInfoInputs.cache
+C:\Users\DELL\RiderProjects\baitapCCCCCC\baitapCCCCCC\obj\Debug\netcoreapp2.2\baitapCCCCCC.AssemblyInfo.cs
+C:\Users\DELL\RiderProjects\baitapCCCCCC\baitapCCCCCC\obj\Debug\netcoreapp2.2\baitapCCCCCC.dll
+C:\Users\DELL\RiderProjects\baitapCCCCCC\baitapCCCCCC\obj\Debug\netcoreapp2.2\baitapCCCCCC.pdb
